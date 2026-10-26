@@ -2,11 +2,11 @@
 
 Essential CLI tools and utilities that enhance AI coding agent capabilities
 
-**86** entries across **14** categories.
+**87** entries across **14** categories.
 
 ## Categories
 
-- **AI Coding CLIs** (14)
+- **AI Coding CLIs** (15)
 - **Code Analysis** (12)
 - **Cloud & DevOps** (7)
 - **Formatting & Linting** (7)
@@ -21,7 +21,7 @@ Essential CLI tools and utilities that enhance AI coding agent capabilities
 - **Terminal Enhancement** (4)
 - **AI APIs** (2)
 
-## All 86 tools
+## All 87 tools
 
 | Name                       | Category              | Description                                                                                                                                                                                                                          | Source                                                                                           | Badges                                                                                                                                                                                                                 |
 | -------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -106,6 +106,7 @@ Essential CLI tools and utilities that enhance AI coding agent capabilities
 | molt                       | AI Coding CLIs        | A coding agent that won't say done on a false claim. Verification on disk. Receipts for accepts and refusals. Terminal and desktop. OpenAI compatible or Anthropic.                                                                  | [solvyxtech/molt](https://github.com/solvyxtech/molt)                                            | ![Stars](https://img.shields.io/github/stars/solvyxtech/molt?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/solvyxtech/molt?style=flat)                                   |
 | ghostget                   | AI Coding CLIs        | Named web actions for AI agents: read a page, archive one media item, or use a connected account, without credentials or a browser.                                                                                                  | [hraness/ghostget](https://github.com/hraness/ghostget)                                          | ![Stars](https://img.shields.io/github/stars/hraness/ghostget?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/hraness/ghostget?style=flat)                                 |
 | Ordewell                   | AI Coding CLIs        | Terminal CLI and TUI that turns one goal into an ordered, editable plan of coding agent tasks, each with its own runner, model and mode, and accepts a task as done only when its completion marker appears in that runner's output. | [ordewell/ordewell](https://github.com/ordewell/ordewell)                                        | ![Stars](https://img.shields.io/github/stars/ordewell/ordewell?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/ordewell/ordewell?style=flat)                               |
+| Orbi                       | AI Coding CLIs        | Open-source (AGPL-3.0) coding agent that turns labeled GitHub Issues into tested PRs, merged after a separate AI review.                                                                                                             | [orbi-build/orbi](https://github.com/orbi-build/orbi)                                            | ![Stars](https://img.shields.io/github/stars/orbi-build/orbi?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/orbi-build/orbi?style=flat)                                   |
 | APIClaw                    | AI APIs               | Flat-rate OpenAI-compatible AI API for multi-model applications, with plans from $19/month and 50 free trial requests.                                                                                                               | [apiclaw.biz](https://apiclaw.biz)                                                               |                                                                                                                                                                                                                        |
 | Clarity                    | AI APIs               | Base x402 API for short research reports and chat, with a public discovery descriptor for agent integrations.                                                                                                                        | [agent-tools.cloud](https://agent-tools.cloud/services/desktop-o99r0sf-tail935fba-ts-net-sub899) |                                                                                                                                                                                                                        |
 | cap-evolve                 | Agent Training & Eval | Optimizes an agent's prompts, tool code, and skills from failed evaluation traces, gated by a held-out significance test.                                                                                                            | [skillberry-ai/cap-evolve](https://github.com/skillberry-ai/cap-evolve)                          | ![Stars](https://img.shields.io/github/stars/skillberry-ai/cap-evolve?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/skillberry-ai/cap-evolve?style=flat)                 |

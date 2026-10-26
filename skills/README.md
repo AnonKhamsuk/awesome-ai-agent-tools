@@ -2,7 +2,7 @@
 
 Reusable AI agent skills following the SKILL.md standard
 
-**97** entries across **9** categories.
+**98** entries across **9** categories.
 
 ## Categories
 
@@ -10,13 +10,13 @@ Reusable AI agent skills following the SKILL.md standard
 - **Productivity** (18)
 - **Design** (11)
 - **Content** (10)
-- **DevOps** (8)
+- **DevOps** (9)
 - **Marketing** (6)
 - **Testing** (5)
 - **Data** (5)
 - **Security** (2)
 
-## All 97 skills
+## All 98 skills
 
 | Name                                            | Category     | Description                                                                                                                                                                          | Source                                                                                                | Badges                                                                                                                                                                                                                               |
 | ----------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -117,6 +117,7 @@ Reusable AI agent skills following the SKILL.md standard
 | PlaceCall                                       | Productivity | Places real phone calls to US businesses via the PlaceCall API; returns outcome and transcript                                                                                       | [voygr-tech/placecall](https://github.com/voygr-tech/placecall)                                       | ![Stars](https://img.shields.io/github/stars/voygr-tech/placecall?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/voygr-tech/placecall?style=flat)                                       |
 | Review PR                                       | Development  | Reviews a pull request with independent parallel reviewers, verifies every finding, fixes the valid in-scope ones, and has an independent reviewer re-check the result.              | [GeiserX/agent-skills](https://github.com/GeiserX/agent-skills)                                       | ![Stars](https://img.shields.io/github/stars/GeiserX/agent-skills?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/GeiserX/agent-skills?style=flat)                                       |
 | Solaris Chief of Staff                          | Productivity | Runs deterministic intake and emits one bounded assignment or a genuine escalation. Does not perform specialist work.                                                                | [Shaisolaris/solaris-dev-shop](https://github.com/Shaisolaris/solaris-dev-shop)                       | ![Stars](https://img.shields.io/github/stars/Shaisolaris/solaris-dev-shop?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/Shaisolaris/solaris-dev-shop?style=flat)                       |
+| deed.page                                       | DevOps       | Publishes an HTML file or static folder to a permanent https://<slug>.deed.page/ URL with one curl request. No account or API key.                                                   | [f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill)                                 | ![Stars](https://img.shields.io/github/stars/f-o-x11/deed-page-skill?style=flat&label=Stars&color=gold) ![Last Commit](https://img.shields.io/github/last-commit/f-o-x11/deed-page-skill?style=flat)                                 |
 
 ---
 
