@@ -89,7 +89,7 @@
       "matcher": "Write|Edit",
       "script": "secret-scanner.js",
       "language": "node",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "security",
         "secrets",
@@ -130,7 +130,7 @@
       "matcher": "Write|Edit",
       "script": "auto-test.js",
       "language": "node",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "automation",
         "testing",
@@ -150,7 +150,7 @@
       "matcher": "Write|Edit",
       "script": "lint-fix.js",
       "language": "node",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "automation",
         "linting",
@@ -170,7 +170,7 @@
       "matcher": "Write|Edit",
       "script": "type-check.js",
       "language": "node",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "automation",
         "typescript",
@@ -190,7 +190,7 @@
       "matcher": "Write|Edit",
       "script": "post-edit-check.js",
       "language": "node",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "quality",
         "linting",
@@ -210,7 +210,7 @@
       "matcher": "Bash",
       "script": "suggest-compact.js",
       "language": "node",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "quality",
         "context-management",
@@ -230,7 +230,7 @@
       "matcher": "Bash",
       "script": "commit-guard.js",
       "language": "node",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "quality",
         "git",
@@ -270,7 +270,7 @@
       "matcher": "*",
       "script": "notification-log.js",
       "language": "node",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "notifications",
         "logging",
@@ -290,7 +290,7 @@
       "matcher": "",
       "script": "session-start.js",
       "language": "node",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "session",
         "startup",
@@ -310,7 +310,7 @@
       "matcher": "",
       "script": "session-end.js",
       "language": "node",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "session",
         "shutdown",
@@ -330,7 +330,7 @@
       "matcher": "",
       "script": "context-loader.js",
       "language": "node",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "session",
         "context",
@@ -350,7 +350,7 @@
       "matcher": "",
       "script": "pre-compact.js",
       "language": "node",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "session",
         "compaction",
@@ -370,7 +370,7 @@
       "matcher": "Bash",
       "script": "pre-push-check.js",
       "language": "node",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "safety",
         "git",
@@ -390,7 +390,7 @@
       "matcher": "Bash",
       "script": "block-dev-server.js",
       "language": "node",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "safety",
         "dev-server",
@@ -411,7 +411,7 @@
       "matcher": "Bash",
       "script": "smart-approve.py",
       "language": "python",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "safety",
         "command-analysis",
@@ -452,7 +452,7 @@
       "matcher": "",
       "script": "stop-check.js",
       "language": "node",
-      "stars": 2847,
+      "stars": 2861,
       "tags": [
         "utility",
         "testing",
@@ -473,7 +473,7 @@
       "matcher": "Bash|Read|Write|Edit",
       "script": "lasso-security.js",
       "language": "node",
-      "stars": 274,
+      "stars": 273,
       "tags": [
         "security",
         "prompt-injection",
@@ -516,7 +516,7 @@
       "matcher": "N/A",
       "script": "N/A",
       "language": "markdown",
-      "stars": 31,
+      "stars": 35,
       "tags": [
         "curated",
         "directory",
@@ -537,7 +537,7 @@
       "matcher": "",
       "script": "aws-cred-check.mjs",
       "language": "node",
-      "stars": 1,
+      "stars": 2,
       "tags": [
         "session",
         "aws",
